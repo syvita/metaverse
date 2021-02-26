@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/mtavrse/node/issues"
   },
-  "homepage": "https://github.com/mtavrse/node#readme"
+  "homepage": "https://github.com/mtavrse/node#readme",
+  "dependencies": {
+    "micro": "^9.3.4"
+  },
+  "devDependencies": {
+    "micro-dev": "^0.0.2"
+  }
 }
