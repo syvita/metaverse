@@ -1,0 +1,19 @@
+{
+  "name": "api",
+  "version": "0.0.0",
+  "description": "a micro-based https api for accessing node services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtavrse/node.git"
+  },
+  "author": "pxydn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtavrse/node/issues"
+  },
+  "homepage": "https://github.com/mtavrse/node#readme"
+}
